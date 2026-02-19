@@ -1,12 +1,9 @@
 # Credit Risk Analysis using Machine Learning
 
 ## Overview
+Built an interpretable Probability of Default (PD) model using feature engineering and multiple machine learning models, including XGBoost and Random Forest. This project focuses on predicting the likelihood of loan default and assess financial risk. The goal is to support better decision‑making in credit approval using data‑driven models.
 
-This project focuses on predicting the likelihood of loan default and assess
-financial risk. The goal is to support better decision‑making in credit
-approval using data‑driven models.
-
-Developed as an academic project part of my **7th Semester Minor Project** during November of 2025.
+Created as an academic project part of my **7th Semester Minor Project** in November of 2025.
 
 ------------------------------------------------------------------------
 
@@ -15,8 +12,9 @@ Developed as an academic project part of my **7th Semester Minor Project** durin
 -   Predict credit default risk using machine learning models\
 -   Improve financial risk assessment accuracy\
 -   Apply advanced ML techniques including:
-    -   Reinforcement Learning (RL)
-    -   XGBoost for classification and risk prediction\
+    -   Reinforcement Learning 
+    -   XGBoost
+    -   Random Forest Algorithm
 -   Build preprocessing pipelines and visualization dashboards
 
 ------------------------------------------------------------------------
@@ -26,6 +24,7 @@ Developed as an academic project part of my **7th Semester Minor Project** durin
 -   Python
 -   XGBoost
 -   Reinforcement Learning approaches
+-   Random Forest
 -   Pandas / NumPy --- Data preprocessing
 -   Jupyter Notebook --- Model development
 -   Matplotlib / Visualization tools
@@ -70,3 +69,4 @@ streamlit run dashboard.py
 http://localhost:8501/
 ```
 ------------------------------------------------------------------------
+
