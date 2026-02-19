@@ -9,8 +9,8 @@ Created as an academic project part of my **7th Semester Minor Project** in Nove
 
 ## Objectives
 
--   Predict credit default risk using machine learning models\
--   Improve financial risk assessment accuracy\
+-   Predict credit default risk using machine learning models
+-   Improve financial risk assessment accuracy
 -   Apply advanced ML techniques including:
     -   Reinforcement Learning 
     -   XGBoost
@@ -69,4 +69,5 @@ streamlit run dashboard.py
 http://localhost:8501/
 ```
 ------------------------------------------------------------------------
+
 
